@@ -98,7 +98,7 @@ repositories:
     url: https://github.com/ros-gbp/object_recognition_transparent_objects-release.git
     version: 0.3.15-0
   octomap:
-    url: https://github.com/ros-gbp/octomap-release.git
+    url: https://github.com/fmder/octomap.git
     version: 1.4.3-0
   octomap_msgs:
     url: https://github.com/ros-gbp/octomap_msgs-release.git
