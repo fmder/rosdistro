@@ -99,7 +99,7 @@ repositories:
     version: 0.3.15-0
   octomap:
     url: https://github.com/fmder/octomap.git
-    version: 1.4.3-0
+    version: devel
   octomap_msgs:
     url: https://github.com/ros-gbp/octomap_msgs-release.git
     version: 0.1.4-0
